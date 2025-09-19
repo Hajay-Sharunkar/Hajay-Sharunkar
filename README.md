@@ -18,6 +18,7 @@ Currently, I’m building my skills by exploring new tools, techniques, and real
  ⚙️ Technologies / Platforms  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
+
  📌 Featured Projects  
 - 🔒 **SIEM Log Analysis Dashboard** – Built with React + ELK Stack for real-time log monitoring.  
 - 🖼 **Image Encryption Tool** – Pixel-level encryption with password-to-key security, deployed with Streamlit.  
