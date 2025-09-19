@@ -1,4 +1,4 @@
-Hi there, I'm Hajay! 👋
+Hi there, I'm Hajay Sharunkar! 👋
 
 I’m a Cybersecurity Student passionate about securing digital systems, analyzing threats, and developing defensive strategies.
 I enjoy working on projects related to network security, SIEM dashboards, ethical hacking, and secure web development.
